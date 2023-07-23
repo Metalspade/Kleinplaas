@@ -290,7 +290,7 @@ section {
 }
 
 .image-container{
-background-image:url('/assets/img/logo kleinplaas.jpg');
+background-image:url('../img/logo\ kleinplaas.jpg');
 background-size: cover;
 border: 5px;
 border-radius: 15px;
